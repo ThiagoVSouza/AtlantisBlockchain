@@ -1,5 +1,15 @@
-#Atlantis Blockchain Syntax
+# Atlantis Blockchain Syntax
 
-1. Operators
+**1. Introduction**
 
-2. Variables
+
+
+**2. Variables**
+
+
+
+**3. Operators**
+
+
+
+
