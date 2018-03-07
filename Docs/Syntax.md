@@ -6,18 +6,23 @@ Atlantis Blockchain Language (ABL) is a complete turing-machine syntax.
 
 **2. Variables**
 
-1. Types
+* Types
 
-1. Arrays
+* Arrays
 
 **3. Operators**
 
-2. Sum
+* Sum
 
-2. Subtraction
+* Subtraction
 
-2. Multiplication
+* Multiplication
 
-2. Division
+* Division
 
 
+**4. Functions**
+
+
+
+**5. Data Acess**
